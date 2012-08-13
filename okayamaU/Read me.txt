@@ -1,0 +1,35 @@
+
+【前準備】
+Yahoo! Web検索API (アップグレード版) を取得し，取得したアプリケーションIDをsearch\Search.javaの38行目のappidという変数に記述してください．
+次に，Stanford Parserをダウンロード，および展開し，Javaのクラスパスにstanford-parser.jarとstanford-parser-2012-05-22-models.jarを追加してください．
+もしくは，コンパイル時と実行時に-cpオプションでクラスパスに追加する．以下のコンパイル方法，実行方法では-cpオプションを用いる方法をとっています．
+また，Javaのコンパイル，実行環境の構築は別途行っておいてください．
+
+【コンパイル方法】
+コマンドプロンプトで以下のコマンドを入力してください．ただし，ここで%STANFORD_PARSER%はStanford Perserを展開したフォルダを示します．
+javac -encoding utf-8 -cp .;%STANFORD_PARSER%\stanford-parser.jar;%STANFORD_PARSER%\stanford-parser-2012-05-22-models.jar detect/*.java search/*.java
+
+【実行方法】
+コマンドプロンプトで以下のコマンドを入力してください．ただし，ここで%STANFORD_PARSER%はStanford Perserを展開したフォルダを示します．
+java -cp .;%STANFORD_PARSER%\stanford-parser.jar;%STANFORD_PARSER%\stanford-parser-2012-05-22-models.jar detect.Main
+
+オプション
+-l 	logファイルを出力
+	出力されるファイルは検索結果
+
+-i <dir>	入力フォルダ
+	指定したフォルダからedcファイルを探索する．
+	
+-o <dir>	出力フォルダ
+	指定したフォルダにsysファイルを出力する．
+	
+-c 	検索ログをcache.txt.log, cache.value.logに分けて出力する．
+	また，cache.txt.log, cache.value.logがあれば，その結果を流用する．
+	再現実験や検索時間，検索回数の削減などに使う．
+
+【実行に必要なツールなど】
+[1]Stanford Parser (version 2.0.2)
+http://nlp.stanford.edu/software/lex-parser.shtml
+
+[2]Yahoo!検索Web API（アップグレード版）
+http://developer.yahoo.co.jp/
