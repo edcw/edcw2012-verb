@@ -276,10 +276,12 @@ if __name__=='__main__':
     print options
 
     import corrcha.tool.setting
-    path = corrcha.tool.setting.val['stanford']['path'] + '/'
+    #path = corrcha.tool.setting.val['stanford']['path'] + '/'
 
-    model_fname = path + corrcha.tool.setting.val['stanford']['model']
-    jar_path = path + corrcha.tool.setting.val['stanford']['jar']
+    #model_fname = path + corrcha.tool.setting.val['stanford']['model']
+    #jar_path = path + corrcha.tool.setting.val['stanford']['jar']
+    model_fname = corrcha.tool.setting.val['stanford']['model']
+    jar_path    = corrcha.tool.setting.val['stanford']['jar']
     parser = StanfordParser(jar_path, model_fname, options)
 
     filenames = os.listdir(args.in_dir)
