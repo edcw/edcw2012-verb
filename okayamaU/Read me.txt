@@ -1,35 +1,35 @@
 
-y‘O€”õz
-Yahoo! WebŒŸõAPI (ƒAƒbƒvƒOƒŒ[ƒh”Å) ‚ðŽæ“¾‚µCŽæ“¾‚µ‚½ƒAƒvƒŠƒP[ƒVƒ‡ƒ“ID‚ðsearch\Search.java‚Ì38s–Ú‚Ìappid‚Æ‚¢‚¤•Ï”‚É‹Lq‚µ‚Ä‚­‚¾‚³‚¢D
-ŽŸ‚ÉCStanford Parser‚ðƒ_ƒEƒ“ƒ[ƒhC‚¨‚æ‚Ñ“WŠJ‚µCJava‚ÌƒNƒ‰ƒXƒpƒX‚Éstanford-parser.jar‚Æstanford-parser-2012-05-22-models.jar‚ð’Ç‰Á‚µ‚Ä‚­‚¾‚³‚¢D
-‚à‚µ‚­‚ÍCƒRƒ“ƒpƒCƒ‹Žž‚ÆŽÀsŽž‚É-cpƒIƒvƒVƒ‡ƒ“‚ÅƒNƒ‰ƒXƒpƒX‚É’Ç‰Á‚·‚éDˆÈ‰º‚ÌƒRƒ“ƒpƒCƒ‹•û–@CŽÀs•û–@‚Å‚Í-cpƒIƒvƒVƒ‡ƒ“‚ð—p‚¢‚é•û–@‚ð‚Æ‚Á‚Ä‚¢‚Ü‚·D
-‚Ü‚½CJava‚ÌƒRƒ“ƒpƒCƒ‹CŽÀsŠÂ‹«‚Ì\’z‚Í•Ê“rs‚Á‚Ä‚¨‚¢‚Ä‚­‚¾‚³‚¢D
+ã€å‰æº–å‚™ã€‘
+Yahoo! Webæ¤œç´¢API (ã‚¢ãƒƒãƒ—ã‚°ãƒ¬ãƒ¼ãƒ‰ç‰ˆ) ã‚’å–å¾—ã—ï¼Œå–å¾—ã—ãŸã‚¢ãƒ—ãƒªã‚±ãƒ¼ã‚·ãƒ§ãƒ³IDã‚’search\Search.javaã®38è¡Œç›®ã®appidã¨ã„ã†å¤‰æ•°ã«è¨˜è¿°ã—ã¦ãã ã•ã„ï¼Ž
+æ¬¡ã«ï¼ŒStanford Parserã‚’ãƒ€ã‚¦ãƒ³ãƒ­ãƒ¼ãƒ‰ï¼ŒãŠã‚ˆã³å±•é–‹ã—ï¼ŒJavaã®ã‚¯ãƒ©ã‚¹ãƒ‘ã‚¹ã«stanford-parser.jarã¨stanford-parser-2012-05-22-models.jarã‚’è¿½åŠ ã—ã¦ãã ã•ã„ï¼Ž
+ã‚‚ã—ãã¯ï¼Œã‚³ãƒ³ãƒ‘ã‚¤ãƒ«æ™‚ã¨å®Ÿè¡Œæ™‚ã«-cpã‚ªãƒ—ã‚·ãƒ§ãƒ³ã§ã‚¯ãƒ©ã‚¹ãƒ‘ã‚¹ã«è¿½åŠ ã™ã‚‹ï¼Žä»¥ä¸‹ã®ã‚³ãƒ³ãƒ‘ã‚¤ãƒ«æ–¹æ³•ï¼Œå®Ÿè¡Œæ–¹æ³•ã§ã¯-cpã‚ªãƒ—ã‚·ãƒ§ãƒ³ã‚’ç”¨ã„ã‚‹æ–¹æ³•ã‚’ã¨ã£ã¦ã„ã¾ã™ï¼Ž
+ã¾ãŸï¼ŒJavaã®ã‚³ãƒ³ãƒ‘ã‚¤ãƒ«ï¼Œå®Ÿè¡Œç’°å¢ƒã®æ§‹ç¯‰ã¯åˆ¥é€”è¡Œã£ã¦ãŠã„ã¦ãã ã•ã„ï¼Ž
 
-yƒRƒ“ƒpƒCƒ‹•û–@z
-ƒRƒ}ƒ“ƒhƒvƒƒ“ƒvƒg‚ÅˆÈ‰º‚ÌƒRƒ}ƒ“ƒh‚ð“ü—Í‚µ‚Ä‚­‚¾‚³‚¢D‚½‚¾‚µC‚±‚±‚Å%STANFORD_PARSER%‚ÍStanford Perser‚ð“WŠJ‚µ‚½ƒtƒHƒ‹ƒ_‚ðŽ¦‚µ‚Ü‚·D
+ã€ã‚³ãƒ³ãƒ‘ã‚¤ãƒ«æ–¹æ³•ã€‘
+ã‚³ãƒžãƒ³ãƒ‰ãƒ—ãƒ­ãƒ³ãƒ—ãƒˆã§ä»¥ä¸‹ã®ã‚³ãƒžãƒ³ãƒ‰ã‚’å…¥åŠ›ã—ã¦ãã ã•ã„ï¼ŽãŸã ã—ï¼Œã“ã“ã§%STANFORD_PARSER%ã¯Stanford Perserã‚’å±•é–‹ã—ãŸãƒ•ã‚©ãƒ«ãƒ€ã‚’ç¤ºã—ã¾ã™ï¼Ž
 javac -encoding utf-8 -cp .;%STANFORD_PARSER%\stanford-parser.jar;%STANFORD_PARSER%\stanford-parser-2012-05-22-models.jar detect/*.java search/*.java
 
-yŽÀs•û–@z
-ƒRƒ}ƒ“ƒhƒvƒƒ“ƒvƒg‚ÅˆÈ‰º‚ÌƒRƒ}ƒ“ƒh‚ð“ü—Í‚µ‚Ä‚­‚¾‚³‚¢D‚½‚¾‚µC‚±‚±‚Å%STANFORD_PARSER%‚ÍStanford Perser‚ð“WŠJ‚µ‚½ƒtƒHƒ‹ƒ_‚ðŽ¦‚µ‚Ü‚·D
+ã€å®Ÿè¡Œæ–¹æ³•ã€‘
+ã‚³ãƒžãƒ³ãƒ‰ãƒ—ãƒ­ãƒ³ãƒ—ãƒˆã§ä»¥ä¸‹ã®ã‚³ãƒžãƒ³ãƒ‰ã‚’å…¥åŠ›ã—ã¦ãã ã•ã„ï¼ŽãŸã ã—ï¼Œã“ã“ã§%STANFORD_PARSER%ã¯Stanford Perserã‚’å±•é–‹ã—ãŸãƒ•ã‚©ãƒ«ãƒ€ã‚’ç¤ºã—ã¾ã™ï¼Ž
 java -cp .;%STANFORD_PARSER%\stanford-parser.jar;%STANFORD_PARSER%\stanford-parser-2012-05-22-models.jar detect.Main
 
-ƒIƒvƒVƒ‡ƒ“
--l 	logƒtƒ@ƒCƒ‹‚ðo—Í
-	o—Í‚³‚ê‚éƒtƒ@ƒCƒ‹‚ÍŒŸõŒ‹‰Ê
+ã‚ªãƒ—ã‚·ãƒ§ãƒ³
+-l 	logãƒ•ã‚¡ã‚¤ãƒ«ã‚’å‡ºåŠ›
+	å‡ºåŠ›ã•ã‚Œã‚‹ãƒ•ã‚¡ã‚¤ãƒ«ã¯æ¤œç´¢çµæžœ
 
--i <dir>	“ü—ÍƒtƒHƒ‹ƒ_
-	Žw’è‚µ‚½ƒtƒHƒ‹ƒ_‚©‚çedcƒtƒ@ƒCƒ‹‚ð’Tõ‚·‚éD
+-i <dir>	å…¥åŠ›ãƒ•ã‚©ãƒ«ãƒ€
+	æŒ‡å®šã—ãŸãƒ•ã‚©ãƒ«ãƒ€ã‹ã‚‰edcãƒ•ã‚¡ã‚¤ãƒ«ã‚’æŽ¢ç´¢ã™ã‚‹ï¼Ž
 	
--o <dir>	o—ÍƒtƒHƒ‹ƒ_
-	Žw’è‚µ‚½ƒtƒHƒ‹ƒ_‚Ésysƒtƒ@ƒCƒ‹‚ðo—Í‚·‚éD
+-o <dir>	å‡ºåŠ›ãƒ•ã‚©ãƒ«ãƒ€
+	æŒ‡å®šã—ãŸãƒ•ã‚©ãƒ«ãƒ€ã«sysãƒ•ã‚¡ã‚¤ãƒ«ã‚’å‡ºåŠ›ã™ã‚‹ï¼Ž
 	
--c 	ŒŸõƒƒO‚ðcache.txt.log, cache.value.log‚É•ª‚¯‚Äo—Í‚·‚éD
-	‚Ü‚½Ccache.txt.log, cache.value.log‚ª‚ ‚ê‚ÎC‚»‚ÌŒ‹‰Ê‚ð—¬—p‚·‚éD
-	ÄŒ»ŽÀŒ±‚âŒŸõŽžŠÔCŒŸõ‰ñ”‚ÌíŒ¸‚È‚Ç‚ÉŽg‚¤D
+-c 	æ¤œç´¢ãƒ­ã‚°ã‚’cache.txt.log, cache.value.logã«åˆ†ã‘ã¦å‡ºåŠ›ã™ã‚‹ï¼Ž
+	ã¾ãŸï¼Œcache.txt.log, cache.value.logãŒã‚ã‚Œã°ï¼Œãã®çµæžœã‚’æµç”¨ã™ã‚‹ï¼Ž
+	å†ç¾å®Ÿé¨“ã‚„æ¤œç´¢æ™‚é–“ï¼Œæ¤œç´¢å›žæ•°ã®å‰Šæ¸›ãªã©ã«ä½¿ã†ï¼Ž
 
-yŽÀs‚É•K—v‚Èƒc[ƒ‹‚È‚Çz
+ã€å®Ÿè¡Œã«å¿…è¦ãªãƒ„ãƒ¼ãƒ«ãªã©ã€‘
 [1]Stanford Parser (version 2.0.2)
 http://nlp.stanford.edu/software/lex-parser.shtml
 
-[2]Yahoo!ŒŸõWeb APIiƒAƒbƒvƒOƒŒ[ƒh”Åj
+[2]Yahoo!æ¤œç´¢Web APIï¼ˆã‚¢ãƒƒãƒ—ã‚°ãƒ¬ãƒ¼ãƒ‰ç‰ˆï¼‰
 http://developer.yahoo.co.jp/
